@@ -1,23 +1,22 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-09-26 02:13:16
-# DOMAIN: 125
+# UPDATED: 2024-10-30 02:13:34
+# DOMAIN: 128
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
-# IP-CIDR: 4
-# TOTAL: 256
+# IP-CIDR: 3
+# TOTAL: 258
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,aegir.sexy
-DOMAIN,api.ipv4online.uk
+DOMAIN,amigacity.xyz
+DOMAIN,api.clasificadosrapidos.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
-DOMAIN,bt1.archive.org
-DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
 DOMAIN,canardscitrons.nohost.me
 DOMAIN,ch3oh.ru
@@ -30,49 +29,55 @@ DOMAIN,explodie.org
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
+DOMAIN,isk.richardsw.club
+DOMAIN,ismaarino.com
 DOMAIN,jutone.com
-DOMAIN,jvavav.com
+DOMAIN,kiryuu-test.mywaifu.best
+DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,mathkangaroo.jp
 DOMAIN,moonburrow.club
-DOMAIN,new-line.net
 DOMAIN,ns1.monolithindustries.com
-DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,odd-hd.fr
+DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
+DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
+DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
+DOMAIN,p2p.azu.red
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.tracker.vraphim.com
-DOMAIN,pybittrack.retiolus.net
+DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
-DOMAIN,retracker.x2k.ru
+DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
-DOMAIN,retracker2.x2k.ru
 DOMAIN,run.publictracker.xyz
+DOMAIN,ryjer.com
+DOMAIN,saltwood.top
 DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
+DOMAIN,sparkle.ghostchu-services.top
 DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
-DOMAIN,threads.canofsocks.com
 DOMAIN,tk.greedland.net
-DOMAIN,tk2.trackerservers.com
 DOMAIN,tk2v6.trackerservers.com
-DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
+DOMAIN,tr.kxmp.cf
+DOMAIN,tr1.aag.moe
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
-DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
-DOMAIN,tracker.bjut.jp
+DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
@@ -83,36 +88,35 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
-DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
-DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
+DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
+DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.itscraftsoftware.my.id
 DOMAIN,tracker.jamesthebard.net
-DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
+DOMAIN,tracker.peckservers.com
 DOMAIN,tracker.pmman.tech
+DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
-DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
-DOMAIN,tracker.waaa.moe
+DOMAIN,tracker.vraphim.com
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
@@ -125,7 +129,6 @@ DOMAIN,tracker4.itzmx.com
 DOMAIN,trackers.mlsub.net
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
-DOMAIN,u6.trakx.crim.ist
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
@@ -261,5 +264,4 @@ DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,torrent
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
-IP-CIDR,49.12.76.8/32,no-resolve
 IP-CIDR,52.58.128.163/32,no-resolve
